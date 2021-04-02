@@ -1,4 +1,4 @@
-# Osmond D. Putnam Photographs
+# Osmond D. Putnam photograph collection
 
 The Osmond D. Putnam photograph collection consistes of 132 dry glass plate negatives taken in the Adirondacks between 1885 and 1887. The images depict labor and industry, rural education, landscapes, architecture, and portraits of community members near Johnsburg, New York.
 
