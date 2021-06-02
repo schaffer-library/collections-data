@@ -1,4 +1,4 @@
-# Pearson Diary
+# Pearson diary
 
 Jonathan Pearson (1813-1887) was a Union College graduate, instructor, and administrator. After graduating in 1835, he returned to the College to teach chemistry, natural history, and botany. He served as the college's librarian for more than 40 years and as the school treasurer from 1854 to 1883.
 
