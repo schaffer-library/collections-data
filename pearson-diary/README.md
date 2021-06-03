@@ -6,5 +6,7 @@ Pearson began keeping a diary as a teenager in 1828. His accounts span forty-sev
 
 The fifteen-volume diary is housed in Union's [Special Collections and Archives.](https://www.union.edu/special-collections) 
 
-The plain text files in this repository are broken down by calendar year. A full text file of the entire diary is also available. This text is open for anyone to use with a [Creative Commons BY-NC-SA license.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+The plain text files in this repository were generated via optical character recognition (OCR) of a transcript of the diary. The text is broken out by calendar year with the exception of the file named `1866-1874.txt`, which contains a summary of those years. A full text file of the entire diary is also available. 
+
+This text is open for anyone to use with a [Creative Commons BY-NC-SA license.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
