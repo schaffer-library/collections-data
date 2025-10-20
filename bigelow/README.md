@@ -62,15 +62,3 @@ The CSV contains metadata for individual records or objects in the Bigelow Paper
 
 ---
 
-## Cleaning Steps
-- Removed all columns that were completely empty across all rows  
-- Dropped redundant or invariant metadata fields (e.g., internal system fields)  
-- Verified UTF-8 encoding and standardized field names  
-
-### Reproducibility
-```python
-import pandas as pd
-
-df = pd.read_csv("8-68f6550c847ac.csv")
-df = df.dropna(axis=1, how="all")
-df.to_csv("8-68f6550c847ac_clean.csv", index=False)
