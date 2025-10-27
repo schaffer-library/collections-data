@@ -14,13 +14,12 @@ Funding for the digitization of this collection was provided by the **National H
 - **Source System:** Arches  
 - **Persistent URL:** [https://arches.union.edu/bigelow](https://arches.union.edu/bigelow)  
 - **Digital Publisher:** Union College  
-- **Finding Aid:** [Link to ArchivesSpace Record](#)  
 - **Rights Statement:** No Copyright – United States  
 
 ---
 
 ## Data Files
-- `8-68f6550c847ac.csv` — CSV export of collection metadata (cleaned to remove empty columns).  
+- `8-68f6550c847ac.csv` — Excel export of collection metadata (cleaned to remove empty columns).  
   - Delimiter: `,`  
   - Encoding: UTF-8  
   - Header row included: Yes  
