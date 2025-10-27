@@ -11,20 +11,17 @@ Source & Provenance
 **Collection Name:** Sheldon Jackson Collection  
 **Type of Resource:** Collection  
 **Source System:** (Internal system or spreadsheet registry)  
-**Persistent URL:** (TBD)  
+**Persistent URL:** https://arches.union.edu/do/827988d2-1487-4465-be27-bef74ea24784
 **Digital Publisher:** Union College  
-**Finding Aid:** Link to ArchivesSpace Record (TBD)  
 **Rights Statement:** No Copyright – United States  
 **Additional Rights / Restrictions:** Open for research.
 
 Data Files
 ----------
 - **Shledon Jackson Collection.xlsx** — Spreadsheet describing objects in the collection.  
-- **sheldon-jackson-collection.csv** — CSV export of collection metadata (UTF-8).
 
   **CSV details**  
-  Delimiter: `,`  
-  Encoding: `UTF-8`  
+  Delimiter: `,`    
   Header row included: Yes  
   Line endings: LF/CRLF (platform-dependent)
 
