@@ -12,7 +12,6 @@ Source & Provenance
 **Type of Resource:** Collection  
 **Source System:** (Internal system or spreadsheet registry)  
 **Persistent URL:** https://arches.union.edu/do/827988d2-1487-4465-be27-bef74ea24784
-
 **Digital Publisher:** Union College  
 **Rights Statement:** No Copyright – United States  
 **Additional Rights / Restrictions:** Open for research.
