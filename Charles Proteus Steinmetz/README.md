@@ -14,7 +14,7 @@ Source & Provenance
 **Institution:** Schaffer Library, Union College — Special Collections & Archives  
 **Collection Name:** Charles Proteus Steinmetz Papers  
 **Type of Resource:** Collection  
-**Persistent URL:** https://arches.union.edu/do/4d738881-e323-4a1b-8096-f3e51bc11e3e 
+**Persistent URL:** https://arches.union.edu/do/4d738881-e323-4a1b-8096-f3e51bc11e3e    
 **Digital Publisher:** Union College  
 **Rights Statement:** No Copyright – United States
 
