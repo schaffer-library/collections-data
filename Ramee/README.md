@@ -7,7 +7,7 @@ In Special Collections and Archives
 
 Overview
 --------
-In January 1813, Eliphalet Nott came into contact with Ramee and found that their ideas for higher education aligned. Nott chose Ramee as the architect for Union College. Ramees ideas included the Nott Memorial building as well as Schaffer Library. His style uses simple shapes as well as inspiration from his time and travels in Europe, such as Belgium, Germany, and Denmark. 
+In January 1813, Eliphalet Nott came into contact with Ramée and found that their ideas for higher education aligned. Nott chose Ramée as the architect for Union College. Ramée ideas included the Nott Memorial building as well as Schaffer Library. His style uses simple shapes as well as inspiration from his time and travels in Europe, such as Belgium, Germany, and Denmark. 
 
 Source & Provenance
 -------------------
