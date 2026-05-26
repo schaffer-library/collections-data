@@ -36,7 +36,7 @@ Controlled Access Terms
 - College Campus Design
 
 **Personal Names**  
-- Joseph Jacques Ramée (1764 - 1842)
+- Ramée, Joseph Jacques (1764 - 1842)
 
 **Corporate Names**  
 - Union College (Schenectady, N.Y.)  
