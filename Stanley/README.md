@@ -46,7 +46,7 @@ Controlled Access Terms
 
 Field Notes
 -----------
-The spreadsheet contain metadata for individual records or objects in the Charles Proteus Steinmetz Papers. Common fields include:
+The spreadsheet contain metadata for individual records or objects in the William Stanley Jr. Collection. Common fields include:
 - **node_uuid**
 - **creator**
 - **titleproper**
